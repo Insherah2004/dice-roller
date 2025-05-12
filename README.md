@@ -20,4 +20,4 @@ Each time you choose to roll, it randomly displays two dice numbers between 1 an
 3. Run the Python file:
 
 ```bash
-python dice_game.py
+python dice_rolling.py
